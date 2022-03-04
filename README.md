@@ -2,10 +2,6 @@
 
 I've been playing chess for a very long time, and ever since I started CS, I've always wanted to create a chess bot. I've finally done it 🙃.
 
-Here's a video where I (white) get crushed by my bot (black) 😉.
-
-https://user-images.githubusercontent.com/64169932/152080181-d7370b95-b44e-4d91-aa54-a69f4d3d5795.mov
-
 Here's its chess.com profile: https://www.chess.com/member/chessables_with_chat_gpt.
 
 ## Playing against the AI! (Mac OS)
